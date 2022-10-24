@@ -1,0 +1,17 @@
+.service__list-item{
+    display: flex;
+    width: 255px;
+    flex-grow: 1;
+    align-items: center;
+    text-align: center;
+    font-family:"Fraunces",arial,sans-serif;
+    text-transform:capitalize;
+    padding: 24px 0;
+    border-bottom: 1px solid #83888f;
+    color:rgb(51, 61, 75, 1);
+    font-size: 24px;
+    line-height: 32px;
+    font-style:900;
+    font-weight: 900; 
+    width: 100%;
+}
